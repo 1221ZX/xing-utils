@@ -1,0 +1,11 @@
+{
+  "name": "xing-utils",
+  "version": "1.0.0",
+  "description": "第一次测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zxx",
+  "license": "ISC"
+}
